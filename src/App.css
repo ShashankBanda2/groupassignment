@@ -1,0 +1,8 @@
+.AppComp{
+    background-image: url("https://image.shutterstock.com/image-photo/abstract-geometric-paper-background-saturated-260nw-1713631516.jpg");
+    position:absolute;
+    min-width: 100%;
+    min-height: 100%;
+    background-size: cover;
+    background-position:center;
+    }

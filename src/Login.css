@@ -1,0 +1,10 @@
+#Login-Component{
+    background-color:#ffffff;
+    width: 23%;
+    height: 50%;
+    text-align: center;
+    padding:"100px";
+    margin-top:65px;
+    margin-bottom: 65px;
+    border-radius: 2%;
+}
