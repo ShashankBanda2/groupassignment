@@ -9,6 +9,7 @@ function DealItems(props) {
             
             <p>{props.categoryname}</p>
             <p>{props.discountdisplay}</p>
+           
             
       
     </div>
