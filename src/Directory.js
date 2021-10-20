@@ -2,6 +2,8 @@ import React from "react";
 import Menuitem from "./Menuitem";
 import { Container, Row, Col } from "react-bootstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
+
+
 class Directory extends React.Component {
   constructor(props) {
     super(props);

@@ -10,7 +10,7 @@ function Menuitem(props) {
   console.log(props);
   return (
     <Router>
-    <div id="Menuitem-component">
+    <div id="Menuitem-component" style>
       <p>{props.discountIs}</p>
       <Link to={props.Url}>
         <b>{props.categoryname}</b>

@@ -46,7 +46,7 @@ class Login extends React.Component {
         />
         <br />
         <input type="checkbox" />
-        Remember me
+          Remember me
         <button
           style={{
             backgroundColor: "#FA8072",
